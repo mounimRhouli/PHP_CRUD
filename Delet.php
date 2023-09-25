@@ -27,5 +27,11 @@ if(isset($_GET["numab"]))
 header("location:./test.php");
 exit;
 ?>
+
+
+
+
+
+    
 </body>
 </html>
